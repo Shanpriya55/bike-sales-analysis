@@ -56,3 +56,5 @@ Calculation: (Revenue - Cost).
 - Customer Segmentation by Revenue: Categorize customers into segments (e.g., High-Value, Mid-Value, Low-Value) based on their spending.
 
 - Store Contribution to Total Revenue: Measure how much revenue each store contributes to the overall revenue.
+
+- Dashboard Interaction 
