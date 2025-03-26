@@ -57,4 +57,21 @@ Calculation: (Revenue - Cost).
 
 - Store Contribution to Total Revenue: Measure how much revenue each store contributes to the overall revenue.
 
-- Dashboard Interaction 
+- Dashboard Interaction - <a href="https://github.com/Shanpriya55/bike-sales-analysis/blob/main/Screenshot%202025-03-26%20224314.png">View Dashboard</a>
+
+# process
+- Ensure clear visualizations of key metrics, with consistent color schemes and intuitive design.
+
+- Interactive elements like slicers and drill-downs should work seamlessly to allow exploration of the data.
+
+- Segmented analysis (by region, bike type, customer) should be easy to access and should provide actionable insights.
+
+- Time-based trend analysis is critical, and Power BI's built-in features (like forecasting) should be properly leveraged.
+
+- Forecasting should be enabled to predict future sales trends based on historical data.
+
+- User testing should be conducted to confirm the dashboard is intuitive and easy to navigate.
+
+  # Dashboard
+
+  
