@@ -1,5 +1,6 @@
 # POWERBI-Bike-Sales-Analysis(Interactive Dashboard Creation)
-##Project objective
+**Project objective**
+
 Visualize Key Metrics: Display important metrics such as total sales, number of bikes sold, profit margins, and other performance indicators, providing a clear view of the bike sales business.
 
 Trend Analysis: Identify sales trends over time, whether by month, quarter, or year, and detect seasonality or cyclical patterns in bike sales.
