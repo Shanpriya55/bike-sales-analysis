@@ -19,3 +19,40 @@
 
 # Data set used
 - <a href="https://github.com/Shanpriya55/bike-sales-analysis/blob/main/Bike_Store_Data.xlsx">Dataset</a>
+
+# Questions
+**1. KPIs**
+Key Performance Indicators to track sales performance:
+
+- Total Revenue: Sum of all sales revenue.
+
+- Total Units Sold: Total quantity of products sold.
+
+- Average Order Value (AOV): Average revenue generated per order.
+
+- Top Performing Product: Product generating the highest revenue.
+
+- Top Performing Store: Store generating the highest revenue.
+
+- Monthly Sales Growth:  Percentage increase or decrease in sales compared to the previous month.
+
+- Revenue by Product Category: Revenue distribution across different product categories.
+- Revenue by Brand: Contribution of each brand to total revenue.
+
+**2. Metrics**
+- Additional metrics for deeper analysis:
+
+- Revenue Trend: Measure revenue changes over time (daily, monthly, or yearly).
+Visualize using a line graph to identify patterns or seasonality.
+
+
+- Order Count: Total number of orders placed.
+Can be segmented by store, category, or time.
+
+
+- Product Profitability: Difference between sales revenue and product cost.
+Calculation: (Revenue - Cost).
+
+- Customer Segmentation by Revenue: Categorize customers into segments (e.g., High-Value, Mid-Value, Low-Value) based on their spending.
+
+- Store Contribution to Total Revenue: Measure how much revenue each store contributes to the overall revenue.
