@@ -74,4 +74,14 @@ Calculation: (Revenue - Cost).
 
   # Dashboard
 
+  ![Screenshot 2025-03-26 224314](https://github.com/user-attachments/assets/1aaf3529-6b30-4f69-ab59-7c9ca3c4fa3d)
+
+  # Conclusion
+  In the bike sales business, monitoring KPIs and additional metrics is crucial for understanding overall performance, identifying growth opportunities, and optimizing strategies. By focusing on revenue, unit 
+sales, and customer segmentation, businesses can improve decision-making and align operations with customer demand and market trends.
+
+  Tracking and analyzing metrics such as sales growth, product profitability, and store contributions provides deeper insights into areas for improvement. For instance, identifying top-performing products or 
+stores allows businesses to replicate success, while understanding revenue trends and customer behavior helps.
+
+
   
