@@ -18,4 +18,4 @@
 **Reporting:** Provide actionable insights that can be shared in the form of reports with stakeholders, offering recommendations based on data analysis.
 
 # Data set used
-
+- <a href="https://github.com/Shanpriya55/bike-sales-analysis/blob/main/Bike_Store_Data.xlsx">Dataset</a>
